@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 4befb0a80e29f444796c987cbd5f34e9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 'Barta_D_Cell [Battery Cell '
+    100004: Barta_D_Cell [Battery Cell  1
+    100006: Barta_D_Cell [Battery Cell  2
+    100008: Camera
+    100010: Environment
+    100012: 'M [\Content\Objects\Household\Battery\Barta\Barta_D_Cell.lwo '
+    100014: 'M [\Content\Objects\Household\Battery\Barta\Barta_D_Cell.lwo (2) '
+    100016: Sot Light Rt
+    100018: Sot Light Rt 2
+    400000: //RootNode
+    400002: 'Barta_D_Cell [Battery Cell '
+    400004: Barta_D_Cell [Battery Cell  1
+    400006: Barta_D_Cell [Battery Cell  2
+    400008: Camera
+    400010: Environment
+    400012: 'M [\Content\Objects\Household\Battery\Barta\Barta_D_Cell.lwo '
+    400014: 'M [\Content\Objects\Household\Battery\Barta\Barta_D_Cell.lwo (2) '
+    400016: Sot Light Rt
+    400018: Sot Light Rt 2
+    2300000: 'Barta_D_Cell [Battery Cell '
+    2300002: Barta_D_Cell [Battery Cell  1
+    2300004: Barta_D_Cell [Battery Cell  2
+    3300000: 'Barta_D_Cell [Battery Cell '
+    3300002: Barta_D_Cell [Battery Cell  1
+    3300004: Barta_D_Cell [Battery Cell  2
+    4300000: 'Barta_D_Cell [Battery Cell '
+    4300002: 'Barta_D_Cell [Battery Cell '
+    4300004: 'Barta_D_Cell [Battery Cell '
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Battery Core
+    second: {fileID: 2100000, guid: c9d186ea246810045a2a5247a2e81e0f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Battery Sides
+    second: {fileID: 2100000, guid: c9d186ea246810045a2a5247a2e81e0f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
